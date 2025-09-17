@@ -1,0 +1,5 @@
+- Programming language for statistical computing and graphics.
+- Widely used by data scientists and statisticians for analysis and visualization.
+- Supports data manipulation, modeling, and machine learning through numerous packages.
+- Ideal for research, reports, and data-driven decision-making.
+- Strong plotting capabilities with packages like ggplot2 and lattice.
