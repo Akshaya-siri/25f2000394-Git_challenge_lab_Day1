@@ -9,10 +9,10 @@ It demonstrates Git basics: commits, branching, merge conflicts, and history vis
 ## Tasks Completed
 
 1. **Repo Setup**  
-   - Created folder `24F1002193` & initialized Git.  
+   - Created folder `25F2000394` & initialized Git.  
 
 2. **Created 5 Files**  
-   - `file1.txt` → `file5.txt` with initial content.  
+   - `python.txt` → `r.txt` with initial content.  
 
 3. **Commits**  
    - Committed each file separately with descriptive messages.  
@@ -21,11 +21,11 @@ It demonstrates Git basics: commits, branching, merge conflicts, and history vis
    - Created `branch1` & `branch2`.  
 
 5. **Branch Updates**  
-   - `branch1` & `branch2` updated `file1.txt` (conflict introduced).  
+   - `branch1` & `branch2` updated `python.txt` (conflict introduced).  
 
 6. **Merge & Conflict Resolution**  
-   - Merged branches into `master`.  
-   - Resolved merge conflict in `file1.txt`.  
+   - Merged branches into `main`.  
+   - Resolved merge conflict in `python.txt`.  
 
 7. **Git Log & Graph**  
    - Verified commit history using:  
