@@ -1,0 +1,5 @@
+- General-purpose, procedural programming language.
+- Provides low-level memory access using pointers.
+- Frequently used in system programming, operating systems, and embedded systems.
+- Influenced many languages like C++, Java, and Python.
+- Lightweight and efficient, suitable for performance-critical applications.
