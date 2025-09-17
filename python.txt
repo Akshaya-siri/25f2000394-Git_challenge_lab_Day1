@@ -3,3 +3,4 @@
 - Widely used in web development, automation, and scripting.
 - Popular in data science, machine learning, and AI projects.
 - Excellent data visualization tools and packages for charts and plots.git 
+- Rich standard library and large community support for packages
