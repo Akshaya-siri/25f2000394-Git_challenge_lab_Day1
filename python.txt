@@ -1,0 +1,5 @@
+- High-level, interpreted programming language with readable syntax.
+- Supports procedural, object-oriented, and functional programming.
+- Widely used in web development, automation, and scripting.
+- Popular in data science, machine learning, and AI projects.
+- Rich standard library and large community support for packages and frameworks
