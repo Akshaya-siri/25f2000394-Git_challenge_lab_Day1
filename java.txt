@@ -1,0 +1,5 @@
+- Object-oriented, class-based programming language.
+- Runs on the Java Virtual Machine (JVM), enabling cross-platform compatibility.
+- Commonly used in enterprise applications, desktop software, and Android apps.
+- Strongly typed language with extensive libraries and frameworks (Spring, Hibernate).
+- Suitable for building large-scale, secure, and maintainable applications.
