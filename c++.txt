@@ -1,0 +1,5 @@
+- Extension of C with object-oriented features like classes, inheritance, and polymorphism.
+- Used in software development, game development, and system programming.
+- Supports both low-level memory manipulation and high-level abstractions.
+- Common in building performance-critical applications like graphics engines and simulations.
+- Offers a rich Standard Template Library (STL) for data structures and algorithms.
